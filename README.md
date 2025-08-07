@@ -4,7 +4,7 @@ This project is a Machine Learning-based web application built using **Streamlit
 
 ##  Demo
 
-![App Screenshot](./output.png)
+![web Screenshot](./output.png)
 
 ##  Features
 - User inputs: 
